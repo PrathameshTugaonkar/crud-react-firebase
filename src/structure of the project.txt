@@ -1,0 +1,9 @@
+● src
++---● components
+|   |
+|   |--ContactForm.js (form operations) - child  (React Hook Component)
+|   |--Contacts.js  (list of records) - parent (Ract Hook Component)
+|       In Contacts component, all of the firebase db can be retrieved.
+|-- App.js
+|-- index.js (bootstrap and fa icon)
+|-- firebase.js
